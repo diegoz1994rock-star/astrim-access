@@ -1,0 +1,47 @@
+LICENCIA DE USO DE ASTRIM ACCESS
+Versión 1.0 · 2026 · Borrador sujeto a revisión jurídica
+
+© 2026 ASTRIM. Todos los derechos reservados.
+
+1. OBJETO
+Esta licencia regula el uso del software ASTRIM ACCESS (la "Aplicación"): aplicación Android de control de acceso vehicular con reconocimiento de placas, desarrollada y distribuida bajo la identidad ASTRIM.
+
+2. LICENCIA OTORGADA
+ASTRIM concede al cliente identificado en el contrato, orden de servicio o acuerdo correspondiente (el "Cliente") una licencia de uso no exclusiva e intransferible. La licencia se limita a las condiciones autorizadas por ASTRIM y acordadas con el Cliente: conjunto residencial o sede, número de dispositivos y vigencia. A falta de acuerdo escrito, la licencia se limita al uso interno del Cliente en los dispositivos en que ASTRIM o el Cliente, con autorización de ASTRIM, instalaron la Aplicación.
+
+3. RESTRICCIONES
+Salvo autorización expresa y escrita de ASTRIM, o cuando la ley aplicable lo permita sin posibilidad de pacto en contrario, no está permitido:
+a) reproducir, copiar o redistribuir la Aplicación o su instalador (APK), total o parcialmente;
+b) modificar, adaptar, traducir o crear obras derivadas de la Aplicación;
+c) descompilar, desensamblar o aplicar ingeniería inversa a la Aplicación;
+d) sublicenciar, alquilar, prestar, vender o comercializar la Aplicación, o usarla para prestar servicios a terceros distintos del Cliente;
+e) retirar o alterar los avisos de propiedad intelectual, de marca o de licencias de terceros.
+
+4. PROPIEDAD INTELECTUAL
+La Aplicación, su código fuente, diseño, interfaz gráfica, documentación y demás elementos originales protegibles están sujetos a las normas aplicables de propiedad intelectual. Esta licencia no transfiere al Cliente ningún derecho de propiedad sobre la Aplicación; solo concede el derecho de uso descrito en la cláusula 2.
+
+5. COMPONENTES DE TERCEROS
+La Aplicación incluye componentes de terceros con licencias propias: entre otros, Flutter, OpenCV, AndroidX/CameraX, SQLite, SQLite3MultipleCiphers y Google ML Kit. Esos componentes se rigen por sus licencias, que se pueden consultar en la Aplicación (Acerca de → Licencias de software de terceros). Esta licencia no limita los derechos que dichas licencias otorgan sobre esos componentes.
+
+6. DATOS DEL CLIENTE
+Los datos que el Cliente registra en la Aplicación (vehículos, unidades, visitantes, ingresos, historial y operadores) pertenecen al Cliente, quien actúa como responsable de su tratamiento conforme a la normativa de protección de datos personales aplicable. La Aplicación procesa la información en el dispositivo y no la envía a servidores de ASTRIM ni de terceros. El Cliente es responsable de la custodia del dispositivo, de sus respaldos y de las contraseñas de respaldo.
+
+7. FUNCIONAMIENTO SIN CONEXIÓN Y AUSENCIA DE BLOQUEOS REMOTOS
+La Aplicación funciona sin conexión a Internet y no incluye mecanismos de desactivación remota ni validaciones externas de licencia que puedan impedir el control de acceso del conjunto. El incumplimiento de esta licencia se gestiona por las vías contractuales y legales, no mediante bloqueos técnicos de la Aplicación.
+
+8. ALCANCE FUNCIONAL Y RESPONSABILIDAD
+a) La Aplicación es una herramienta de apoyo. Detectar una placa no equivale a autorizar un ingreso: la decisión y la confirmación de cada ingreso corresponden al personal de vigilancia.
+b) El reconocimiento de placas puede fallar por iluminación, ángulo, distancia, suciedad, obstrucción o características del dispositivo. El Cliente debe mantener procedimientos de verificación humana.
+c) En la máxima medida permitida por la ley aplicable, la Aplicación se suministra "en el estado en que se encuentra", sin garantías distintas de las pactadas por escrito. ASTRIM no responde por daños indirectos, lucro cesante, pérdida de datos derivada de la falta de respaldos del Cliente, ni por decisiones de acceso tomadas por el personal del Cliente. Nada en esta cláusula limita derechos irrenunciables del consumidor ni responsabilidades que la ley no permita excluir.
+d) Ninguna medida técnica ofrece protección absoluta contra copias, ingeniería inversa o modificaciones. ASTRIM no garantiza esa protección absoluta.
+
+9. SOPORTE Y ACTUALIZACIONES
+El soporte, las actualizaciones, sus tiempos de respuesta y sus costos se rigen por el acuerdo con el Cliente. A falta de acuerdo, ASTRIM no está obligada a prestar soporte ni a publicar actualizaciones. Las actualizaciones oficiales se distribuyen firmadas con la firma de ASTRIM.
+
+10. TERMINACIÓN
+La licencia termina al vencer el acuerdo con el Cliente o por incumplimiento grave de esta licencia. Al terminar, el Cliente debe cesar el uso de la Aplicación. Antes de desinstalarla debe conservar sus datos mediante un respaldo exportado.
+
+11. LEY APLICABLE
+Esta licencia se interpreta conforme a la ley aplicable al acuerdo con el Cliente. Los aspectos no previstos se rigen por ese acuerdo.
+
+Para autorizaciones, consultas o licencias adicionales, contacte a ASTRIM por los medios indicados en su acuerdo comercial.
